@@ -1,0 +1,1194 @@
+[
+    {
+        "traditional": "八",
+        "simplified": "八",
+        "pinyinNumber": "ba1",
+        "pinyinTone": "bā",
+        "pinyinAtone": "ba",
+        "translation": "eight"
+    },
+    {
+        "traditional": "爸爸",
+        "simplified": "爸爸",
+        "pinyinNumber": "ba4ba5",
+        "pinyinTone": "bàba",
+        "pinyinAtone": "baba",
+        "translation": "Dad"
+    },
+    {
+        "traditional": "杯子",
+        "simplified": "杯子",
+        "pinyinNumber": "bei1zi5",
+        "pinyinTone": "beīzi",
+        "pinyinAtone": "beizi",
+        "translation": "cup; glass"
+    },
+    {
+        "traditional": "北京",
+        "simplified": "北京",
+        "pinyinNumber": "Bei3jing1",
+        "pinyinTone": "Beĭjīng",
+        "pinyinAtone": "Beijing",
+        "translation": "Beijing"
+    },
+    {
+        "traditional": "本",
+        "simplified": "本",
+        "pinyinNumber": "ben3",
+        "pinyinTone": "bĕn",
+        "pinyinAtone": "ben",
+        "translation": "measure word for books"
+    },
+    {
+        "traditional": "不客氣",
+        "simplified": "不客气",
+        "pinyinNumber": "bu2 ke4qi5",
+        "pinyinTone": "bú kèqi",
+        "pinyinAtone": "bu keqi",
+        "translation": "you're welcome; don't be polite"
+    },
+    {
+        "traditional": "不",
+        "simplified": "不",
+        "pinyinNumber": "bu4",
+        "pinyinTone": "bù",
+        "pinyinAtone": "bu",
+        "translation": "no; not"
+    },
+    {
+        "traditional": "菜",
+        "simplified": "菜",
+        "pinyinNumber": "cai4",
+        "pinyinTone": "caì",
+        "pinyinAtone": "cai",
+        "translation": "dish (type of food); vegetables"
+    },
+    {
+        "traditional": "茶",
+        "simplified": "茶",
+        "pinyinNumber": "cha2",
+        "pinyinTone": "chá",
+        "pinyinAtone": "cha",
+        "translation": "tea"
+    },
+    {
+        "traditional": "吃",
+        "simplified": "吃",
+        "pinyinNumber": "chi1",
+        "pinyinTone": "chī",
+        "pinyinAtone": "chi",
+        "translation": "eat"
+    },
+    {
+        "traditional": "出租車",
+        "simplified": "出租车",
+        "pinyinNumber": "chu1zu1che1",
+        "pinyinTone": "chūzūchē",
+        "pinyinAtone": "chuzuche",
+        "translation": "taxi; cab"
+    },
+    {
+        "traditional": "打電話",
+        "simplified": "打电话",
+        "pinyinNumber": "da3 dian4hua4",
+        "pinyinTone": "dă diànhuà",
+        "pinyinAtone": "da dianhua",
+        "translation": "make a phone call"
+    },
+    {
+        "traditional": "大",
+        "simplified": "大",
+        "pinyinNumber": "da4",
+        "pinyinTone": "dà",
+        "pinyinAtone": "da",
+        "translation": "big; large"
+    },
+    {
+        "traditional": "的",
+        "simplified": "的",
+        "pinyinNumber": "de5",
+        "pinyinTone": "de",
+        "pinyinAtone": "de",
+        "translation": "indicates possession, like adding 's to a noun"
+    },
+    {
+        "traditional": "點",
+        "simplified": "点",
+        "pinyinNumber": "dian3",
+        "pinyinTone": "diăn",
+        "pinyinAtone": "dian",
+        "translation": "a dot; a little; o'clock"
+    },
+    {
+        "traditional": "電腦",
+        "simplified": "电脑",
+        "pinyinNumber": "dian4nao3",
+        "pinyinTone": "diànnaŏ",
+        "pinyinAtone": "diannao",
+        "translation": "computer"
+    },
+    {
+        "traditional": "電視",
+        "simplified": "电视",
+        "pinyinNumber": "dian4shi4",
+        "pinyinTone": "diànshì",
+        "pinyinAtone": "dianshi",
+        "translation": "television; TV"
+    },
+    {
+        "traditional": "電影",
+        "simplified": "电影",
+        "pinyinNumber": "dian4ying3",
+        "pinyinTone": "diànyĭng",
+        "pinyinAtone": "dianying",
+        "translation": "movie; film"
+    },
+    {
+        "traditional": "東西",
+        "simplified": "东西",
+        "pinyinNumber": "dong1xi5",
+        "pinyinTone": "dōngxi",
+        "pinyinAtone": "dongxi",
+        "translation": "things; stuff"
+    },
+    {
+        "traditional": "都",
+        "simplified": "都",
+        "pinyinNumber": "dou1",
+        "pinyinTone": "doū",
+        "pinyinAtone": "dou",
+        "translation": "all; both"
+    },
+    {
+        "traditional": "讀",
+        "simplified": "读",
+        "pinyinNumber": "du2",
+        "pinyinTone": "dú",
+        "pinyinAtone": "du",
+        "translation": "to read; to study"
+    },
+    {
+        "traditional": "對不起",
+        "simplified": "对不起",
+        "pinyinNumber": "dui4bu5qi3",
+        "pinyinTone": "duìbuqĭ",
+        "pinyinAtone": "duibuqi",
+        "translation": "sorry"
+    },
+    {
+        "traditional": "多",
+        "simplified": "多",
+        "pinyinNumber": "duo1",
+        "pinyinTone": "duō",
+        "pinyinAtone": "duo",
+        "translation": "many"
+    },
+    {
+        "traditional": "多少",
+        "simplified": "多少",
+        "pinyinNumber": "duo1shao5",
+        "pinyinTone": "duōshao",
+        "pinyinAtone": "duoshao",
+        "translation": "how much?; how many?"
+    },
+    {
+        "traditional": "兒子",
+        "simplified": "儿子",
+        "pinyinNumber": "er2zi5",
+        "pinyinTone": "érzi",
+        "pinyinAtone": "erzi",
+        "translation": "son"
+    },
+    {
+        "traditional": "二",
+        "simplified": "二",
+        "pinyinNumber": "er4",
+        "pinyinTone": "èr",
+        "pinyinAtone": "er",
+        "translation": "two"
+    },
+    {
+        "traditional": "飯店",
+        "simplified": "饭店",
+        "pinyinNumber": "fan4dian4",
+        "pinyinTone": "fàndiàn",
+        "pinyinAtone": "fandian",
+        "translation": "restaurant; hotel"
+    },
+    {
+        "traditional": "飛機",
+        "simplified": "飞机",
+        "pinyinNumber": "fei1ji1",
+        "pinyinTone": "feījī",
+        "pinyinAtone": "feiji",
+        "translation": "airplane"
+    },
+    {
+        "traditional": "分鐘",
+        "simplified": "分钟",
+        "pinyinNumber": "fen1zhong1",
+        "pinyinTone": "fēnzhōng",
+        "pinyinAtone": "fenzhong",
+        "translation": "minute; (measure word for time)"
+    },
+    {
+        "traditional": "高興",
+        "simplified": "高兴",
+        "pinyinNumber": "gao1xing4",
+        "pinyinTone": "gaōxìng",
+        "pinyinAtone": "gaoxing",
+        "translation": "happy; glad"
+    },
+    {
+        "traditional": "個",
+        "simplified": "个",
+        "pinyinNumber": "ge5",
+        "pinyinTone": "ge",
+        "pinyinAtone": "ge",
+        "translation": "general measure word"
+    },
+    {
+        "traditional": "工作",
+        "simplified": "工作",
+        "pinyinNumber": "gong1zuo4",
+        "pinyinTone": "gōngzuò",
+        "pinyinAtone": "gongzuo",
+        "translation": "work; a job"
+    },
+    {
+        "traditional": "狗",
+        "simplified": "狗",
+        "pinyinNumber": "gou3",
+        "pinyinTone": "goŭ",
+        "pinyinAtone": "gou",
+        "translation": "dog"
+    },
+    {
+        "traditional": "漢語",
+        "simplified": "汉语",
+        "pinyinNumber": "Han4yu3",
+        "pinyinTone": "Hànyŭ",
+        "pinyinAtone": "Hanyu",
+        "translation": "Chinese language"
+    },
+    {
+        "traditional": "好",
+        "simplified": "好",
+        "pinyinNumber": "hao3",
+        "pinyinTone": "haŏ",
+        "pinyinAtone": "hao",
+        "translation": "good"
+    },
+    {
+        "traditional": "號",
+        "simplified": "号",
+        "pinyinNumber": "hao4",
+        "pinyinTone": "haò",
+        "pinyinAtone": "hao",
+        "translation": "number; day of a month"
+    },
+    {
+        "traditional": "喝",
+        "simplified": "喝",
+        "pinyinNumber": "he1",
+        "pinyinTone": "hē",
+        "pinyinAtone": "he",
+        "translation": "to drink"
+    },
+    {
+        "traditional": "和",
+        "simplified": "和",
+        "pinyinNumber": "he2",
+        "pinyinTone": "hé",
+        "pinyinAtone": "he",
+        "translation": "and; with"
+    },
+    {
+        "traditional": "很",
+        "simplified": "很",
+        "pinyinNumber": "hen3",
+        "pinyinTone": "hĕn",
+        "pinyinAtone": "hen",
+        "translation": "very; quite"
+    },
+    {
+        "traditional": "后面",
+        "simplified": "后面",
+        "pinyinNumber": "hou4mian5",
+        "pinyinTone": "hoùmian",
+        "pinyinAtone": "houmian",
+        "translation": "back; behind"
+    },
+    {
+        "traditional": "回",
+        "simplified": "回",
+        "pinyinNumber": "hui2",
+        "pinyinTone": "huí",
+        "pinyinAtone": "hui",
+        "translation": "to return; to reply; to go back"
+    },
+    {
+        "traditional": "會",
+        "simplified": "会",
+        "pinyinNumber": "hui4",
+        "pinyinTone": "huì",
+        "pinyinAtone": "hui",
+        "translation": "know how to"
+    },
+    {
+        "traditional": "幾",
+        "simplified": "几",
+        "pinyinNumber": "ji3",
+        "pinyinTone": "jĭ",
+        "pinyinAtone": "ji",
+        "translation": "how many; several; a few"
+    },
+    {
+        "traditional": "家",
+        "simplified": "家",
+        "pinyinNumber": "jia1",
+        "pinyinTone": "jiā",
+        "pinyinAtone": "jia",
+        "translation": "family; home"
+    },
+    {
+        "traditional": "叫",
+        "simplified": "叫",
+        "pinyinNumber": "jiao4",
+        "pinyinTone": "jiaò",
+        "pinyinAtone": "jiao",
+        "translation": "to be called"
+    },
+    {
+        "traditional": "今天",
+        "simplified": "今天",
+        "pinyinNumber": "jin1tian1",
+        "pinyinTone": "jīntiān",
+        "pinyinAtone": "jintian",
+        "translation": "today"
+    },
+    {
+        "traditional": "九",
+        "simplified": "九",
+        "pinyinNumber": "jiu3",
+        "pinyinTone": "jiŭ",
+        "pinyinAtone": "jiu",
+        "translation": "nine"
+    },
+    {
+        "traditional": "開",
+        "simplified": "开",
+        "pinyinNumber": "kai1",
+        "pinyinTone": "kaī",
+        "pinyinAtone": "kai",
+        "translation": "to open; to start; to operate (a vehicle)"
+    },
+    {
+        "traditional": "看",
+        "simplified": "看",
+        "pinyinNumber": "kan4",
+        "pinyinTone": "kàn",
+        "pinyinAtone": "kan",
+        "translation": "see; look at; to watch"
+    },
+    {
+        "traditional": "看見",
+        "simplified": "看见",
+        "pinyinNumber": "kan4jian4",
+        "pinyinTone": "kànjiàn",
+        "pinyinAtone": "kanjian",
+        "translation": "see; catch sight of"
+    },
+    {
+        "traditional": "塊",
+        "simplified": "块",
+        "pinyinNumber": "kuai4",
+        "pinyinTone": "kuaì",
+        "pinyinAtone": "kuai",
+        "translation": "lump; piece; sum of money"
+    },
+    {
+        "traditional": "來",
+        "simplified": "来",
+        "pinyinNumber": "lai2",
+        "pinyinTone": "laí",
+        "pinyinAtone": "lai",
+        "translation": "come; arrive; ever since; next"
+    },
+    {
+        "traditional": "老師",
+        "simplified": "老师",
+        "pinyinNumber": "lao3shi1",
+        "pinyinTone": "laŏshī",
+        "pinyinAtone": "laoshi",
+        "translation": "teacher"
+    },
+    {
+        "traditional": "了",
+        "simplified": "了",
+        "pinyinNumber": "le5",
+        "pinyinTone": "le",
+        "pinyinAtone": "le",
+        "translation": "indicates a completed or finished action"
+    },
+    {
+        "traditional": "冷",
+        "simplified": "冷",
+        "pinyinNumber": "leng3",
+        "pinyinTone": "lĕng",
+        "pinyinAtone": "leng",
+        "translation": "cold"
+    },
+    {
+        "traditional": "裡",
+        "simplified": "里",
+        "pinyinNumber": "li3",
+        "pinyinTone": "lĭ",
+        "pinyinAtone": "li",
+        "translation": "inside; Chinese mile (~.5 km)"
+    },
+    {
+        "traditional": "六",
+        "simplified": "六",
+        "pinyinNumber": "liu4",
+        "pinyinTone": "liù",
+        "pinyinAtone": "liu",
+        "translation": "six"
+    },
+    {
+        "traditional": "媽媽",
+        "simplified": "妈妈",
+        "pinyinNumber": "ma1ma5",
+        "pinyinTone": "māma",
+        "pinyinAtone": "mama",
+        "translation": "mom; mum"
+    },
+    {
+        "traditional": "嗎",
+        "simplified": "吗",
+        "pinyinNumber": "ma5",
+        "pinyinTone": "ma",
+        "pinyinAtone": "ma",
+        "translation": "indicates a yes/no question (added to a statement)"
+    },
+    {
+        "traditional": "買",
+        "simplified": "买",
+        "pinyinNumber": "mai3",
+        "pinyinTone": "maĭ",
+        "pinyinAtone": "mai",
+        "translation": "to buy"
+    },
+    {
+        "traditional": "貓",
+        "simplified": "猫",
+        "pinyinNumber": "mao1",
+        "pinyinTone": "maō",
+        "pinyinAtone": "mao",
+        "translation": "cat"
+    },
+    {
+        "traditional": "沒關系",
+        "simplified": "没关系",
+        "pinyinNumber": "mei2 guan1xi5",
+        "pinyinTone": "meí guānxi",
+        "pinyinAtone": "mei guanxi",
+        "translation": "it doesn't matter; never mind"
+    },
+    {
+        "traditional": "沒有",
+        "simplified": "没有",
+        "pinyinNumber": "mei2you3",
+        "pinyinTone": "meíyoŭ",
+        "pinyinAtone": "meiyou",
+        "translation": "not have; there is not"
+    },
+    {
+        "traditional": "米飯",
+        "simplified": "米饭",
+        "pinyinNumber": "mi3fan4",
+        "pinyinTone": "mĭfàn",
+        "pinyinAtone": "mifan",
+        "translation": "(cooked) rice"
+    },
+    {
+        "traditional": "明天",
+        "simplified": "明天",
+        "pinyinNumber": "ming2tian1",
+        "pinyinTone": "míngtiān",
+        "pinyinAtone": "mingtian",
+        "translation": "tomorrow"
+    },
+    {
+        "traditional": "名字",
+        "simplified": "名字",
+        "pinyinNumber": "ming2zi5",
+        "pinyinTone": "míngzi",
+        "pinyinAtone": "mingzi",
+        "translation": "name"
+    },
+    {
+        "traditional": "哪",
+        "simplified": "哪",
+        "pinyinNumber": "na3",
+        "pinyinTone": "nă",
+        "pinyinAtone": "na",
+        "translation": "which; how"
+    },
+    {
+        "traditional": "哪兒",
+        "simplified": "哪儿",
+        "pinyinNumber": "na3r5",
+        "pinyinTone": "năr5",
+        "pinyinAtone": "nar5",
+        "translation": "where? (Beijing accent)"
+    },
+    {
+        "traditional": "那",
+        "simplified": "那",
+        "pinyinNumber": "na4",
+        "pinyinTone": "nà",
+        "pinyinAtone": "na",
+        "translation": "that; then"
+    },
+    {
+        "traditional": "呢",
+        "simplified": "呢",
+        "pinyinNumber": "ne5",
+        "pinyinTone": "ne",
+        "pinyinAtone": "ne",
+        "translation": "indicates a question; how about...?;"
+    },
+    {
+        "traditional": "能",
+        "simplified": "能",
+        "pinyinNumber": "neng2",
+        "pinyinTone": "néng",
+        "pinyinAtone": "neng",
+        "translation": "can; be able"
+    },
+    {
+        "traditional": "你",
+        "simplified": "你",
+        "pinyinNumber": "ni3",
+        "pinyinTone": "nĭ",
+        "pinyinAtone": "ni",
+        "translation": "you (singular)"
+    },
+    {
+        "traditional": "年",
+        "simplified": "年",
+        "pinyinNumber": "nian2",
+        "pinyinTone": "nián",
+        "pinyinAtone": "nian",
+        "translation": "year"
+    },
+    {
+        "traditional": "女兒",
+        "simplified": "女儿",
+        "pinyinNumber": "nv3'er2",
+        "pinyinTone": "nǚ'ér",
+        "pinyinAtone": "nu'er",
+        "translation": "daughter"
+    },
+    {
+        "traditional": "朋友",
+        "simplified": "朋友",
+        "pinyinNumber": "peng2you5",
+        "pinyinTone": "péngyou",
+        "pinyinAtone": "pengyou",
+        "translation": "friend"
+    },
+    {
+        "traditional": "漂亮",
+        "simplified": "漂亮",
+        "pinyinNumber": "piao4liang5",
+        "pinyinTone": "piaòliang",
+        "pinyinAtone": "piaoliang",
+        "translation": "pretty; beautiful"
+    },
+    {
+        "traditional": "蘋果",
+        "simplified": "苹果",
+        "pinyinNumber": "ping2guo3",
+        "pinyinTone": "píngguŏ",
+        "pinyinAtone": "pingguo",
+        "translation": "apple"
+    },
+    {
+        "traditional": "七",
+        "simplified": "七",
+        "pinyinNumber": "qi1",
+        "pinyinTone": "qī",
+        "pinyinAtone": "qi",
+        "translation": "seven"
+    },
+    {
+        "traditional": "錢",
+        "simplified": "钱",
+        "pinyinNumber": "qian2",
+        "pinyinTone": "qián",
+        "pinyinAtone": "qian",
+        "translation": "money; coin"
+    },
+    {
+        "traditional": "前面",
+        "simplified": "前面",
+        "pinyinNumber": "qian2mian4",
+        "pinyinTone": "qiánmiàn",
+        "pinyinAtone": "qianmian",
+        "translation": "in front"
+    },
+    {
+        "traditional": "請",
+        "simplified": "请",
+        "pinyinNumber": "qing3",
+        "pinyinTone": "qĭng",
+        "pinyinAtone": "qing",
+        "translation": "please; invite; to treat someone to something"
+    },
+    {
+        "traditional": "去",
+        "simplified": "去",
+        "pinyinNumber": "qu4",
+        "pinyinTone": "qù",
+        "pinyinAtone": "qu",
+        "translation": "go; to leave"
+    },
+    {
+        "traditional": "熱",
+        "simplified": "热",
+        "pinyinNumber": "re4",
+        "pinyinTone": "rè",
+        "pinyinAtone": "re",
+        "translation": "heat; hot"
+    },
+    {
+        "traditional": "人",
+        "simplified": "人",
+        "pinyinNumber": "ren2",
+        "pinyinTone": "rén",
+        "pinyinAtone": "ren",
+        "translation": "person; man; people"
+    },
+    {
+        "traditional": "認識",
+        "simplified": "认识",
+        "pinyinNumber": "ren4shi5",
+        "pinyinTone": "rènshi",
+        "pinyinAtone": "renshi",
+        "translation": "recognize; know (a person)"
+    },
+    {
+        "traditional": "三",
+        "simplified": "三",
+        "pinyinNumber": "san1",
+        "pinyinTone": "sān",
+        "pinyinAtone": "san",
+        "translation": "three"
+    },
+    {
+        "traditional": "商店",
+        "simplified": "商店",
+        "pinyinNumber": "shang1dian4",
+        "pinyinTone": "shāngdiàn",
+        "pinyinAtone": "shangdian",
+        "translation": "shop; store"
+    },
+    {
+        "traditional": "上",
+        "simplified": "上",
+        "pinyinNumber": "shang4",
+        "pinyinTone": "shàng",
+        "pinyinAtone": "shang",
+        "translation": "above; up"
+    },
+    {
+        "traditional": "上午",
+        "simplified": "上午",
+        "pinyinNumber": "shang4wu3",
+        "pinyinTone": "shàngwŭ",
+        "pinyinAtone": "shangwu",
+        "translation": "late morning (before noon)"
+    },
+    {
+        "traditional": "少",
+        "simplified": "少",
+        "pinyinNumber": "shao3",
+        "pinyinTone": "shaŏ",
+        "pinyinAtone": "shao",
+        "translation": "few; little"
+    },
+    {
+        "traditional": "誰",
+        "simplified": "谁",
+        "pinyinNumber": "shei2",
+        "pinyinTone": "sheí",
+        "pinyinAtone": "shei",
+        "translation": "who"
+    },
+    {
+        "traditional": "什麼",
+        "simplified": "什么",
+        "pinyinNumber": "shen2me5",
+        "pinyinTone": "shénme",
+        "pinyinAtone": "shenme",
+        "translation": "what? (replaces the noun to turn a statement into a question)"
+    },
+    {
+        "traditional": "十",
+        "simplified": "十",
+        "pinyinNumber": "shi2",
+        "pinyinTone": "shí",
+        "pinyinAtone": "shi",
+        "translation": "ten"
+    },
+    {
+        "traditional": "時候",
+        "simplified": "时候",
+        "pinyinNumber": "shi2hou5",
+        "pinyinTone": "shíhou",
+        "pinyinAtone": "shihou",
+        "translation": "time"
+    },
+    {
+        "traditional": "是",
+        "simplified": "是",
+        "pinyinNumber": "shi4",
+        "pinyinTone": "shì",
+        "pinyinAtone": "shi",
+        "translation": "be; is; are; am"
+    },
+    {
+        "traditional": "書",
+        "simplified": "书",
+        "pinyinNumber": "shu1",
+        "pinyinTone": "shū",
+        "pinyinAtone": "shu",
+        "translation": "book; letter"
+    },
+    {
+        "traditional": "水",
+        "simplified": "水",
+        "pinyinNumber": "shui3",
+        "pinyinTone": "shuĭ",
+        "pinyinAtone": "shui",
+        "translation": "water"
+    },
+    {
+        "traditional": "水果",
+        "simplified": "水果",
+        "pinyinNumber": "shui3guo3",
+        "pinyinTone": "shuĭguŏ",
+        "pinyinAtone": "shuiguo",
+        "translation": "fruit"
+    },
+    {
+        "traditional": "睡覺",
+        "simplified": "睡觉",
+        "pinyinNumber": "shui4 jiao4",
+        "pinyinTone": "shuì jiaò",
+        "pinyinAtone": "shui jiao",
+        "translation": "to sleep; go to bed"
+    },
+    {
+        "traditional": "說",
+        "simplified": "说",
+        "pinyinNumber": "shuo1",
+        "pinyinTone": "shuō",
+        "pinyinAtone": "shuo",
+        "translation": "speak"
+    },
+    {
+        "traditional": "四",
+        "simplified": "四",
+        "pinyinNumber": "si4",
+        "pinyinTone": "sì",
+        "pinyinAtone": "si",
+        "translation": "four"
+    },
+    {
+        "traditional": "歲",
+        "simplified": "岁",
+        "pinyinNumber": "sui4",
+        "pinyinTone": "suì",
+        "pinyinAtone": "sui",
+        "translation": "years old; age"
+    },
+    {
+        "traditional": "他",
+        "simplified": "他",
+        "pinyinNumber": "ta1",
+        "pinyinTone": "tā",
+        "pinyinAtone": "ta",
+        "translation": "he; him"
+    },
+    {
+        "traditional": "她",
+        "simplified": "她",
+        "pinyinNumber": "ta1",
+        "pinyinTone": "tā",
+        "pinyinAtone": "ta",
+        "translation": "she"
+    },
+    {
+        "traditional": "太",
+        "simplified": "太",
+        "pinyinNumber": "tai4",
+        "pinyinTone": "taì",
+        "pinyinAtone": "tai",
+        "translation": "too (much)"
+    },
+    {
+        "traditional": "天氣",
+        "simplified": "天气",
+        "pinyinNumber": "tian1qi4",
+        "pinyinTone": "tiānqì",
+        "pinyinAtone": "tianqi",
+        "translation": "weather"
+    },
+    {
+        "traditional": "聽",
+        "simplified": "听",
+        "pinyinNumber": "ting1",
+        "pinyinTone": "tīng",
+        "pinyinAtone": "ting",
+        "translation": "listen; hear"
+    },
+    {
+        "traditional": "同學",
+        "simplified": "同学",
+        "pinyinNumber": "tong2xue2",
+        "pinyinTone": "tóngxué",
+        "pinyinAtone": "tongxue",
+        "translation": "fellow student; schoolmate"
+    },
+    {
+        "traditional": "喂",
+        "simplified": "喂",
+        "pinyinNumber": "wei4",
+        "pinyinTone": "weì",
+        "pinyinAtone": "wei",
+        "translation": "hello (on the phone)"
+    },
+    {
+        "traditional": "我",
+        "simplified": "我",
+        "pinyinNumber": "wo3",
+        "pinyinTone": "wŏ",
+        "pinyinAtone": "wo",
+        "translation": "I; me"
+    },
+    {
+        "traditional": "我們",
+        "simplified": "我们",
+        "pinyinNumber": "wo3men5",
+        "pinyinTone": "wŏmen",
+        "pinyinAtone": "women",
+        "translation": "we; us"
+    },
+    {
+        "traditional": "五",
+        "simplified": "五",
+        "pinyinNumber": "wu3",
+        "pinyinTone": "wŭ",
+        "pinyinAtone": "wu",
+        "translation": "five"
+    },
+    {
+        "traditional": "喜歡",
+        "simplified": "喜欢",
+        "pinyinNumber": "xi3huan5",
+        "pinyinTone": "xĭhuan",
+        "pinyinAtone": "xihuan",
+        "translation": "to like"
+    },
+    {
+        "traditional": "下",
+        "simplified": "下",
+        "pinyinNumber": "xia4",
+        "pinyinTone": "xià",
+        "pinyinAtone": "xia",
+        "translation": "fall; below"
+    },
+    {
+        "traditional": "下午",
+        "simplified": "下午",
+        "pinyinNumber": "xia4wu3",
+        "pinyinTone": "xiàwŭ",
+        "pinyinAtone": "xiawu",
+        "translation": "afternoon"
+    },
+    {
+        "traditional": "下雨",
+        "simplified": "下雨",
+        "pinyinNumber": "xia4yu3",
+        "pinyinTone": "xiàyŭ",
+        "pinyinAtone": "xiayu",
+        "translation": "to rain"
+    },
+    {
+        "traditional": "先生",
+        "simplified": "先生",
+        "pinyinNumber": "xian1sheng5",
+        "pinyinTone": "xiānsheng",
+        "pinyinAtone": "xiansheng",
+        "translation": "Mr.; Sir"
+    },
+    {
+        "traditional": "現在",
+        "simplified": "现在",
+        "pinyinNumber": "xian4zai4",
+        "pinyinTone": "xiànzaì",
+        "pinyinAtone": "xianzai",
+        "translation": "now"
+    },
+    {
+        "traditional": "想",
+        "simplified": "想",
+        "pinyinNumber": "xiang3",
+        "pinyinTone": "xiăng",
+        "pinyinAtone": "xiang",
+        "translation": "think; believe; suppose; would like to"
+    },
+    {
+        "traditional": "小",
+        "simplified": "小",
+        "pinyinNumber": "xiao3",
+        "pinyinTone": "xiaŏ",
+        "pinyinAtone": "xiao",
+        "translation": "small; young"
+    },
+    {
+        "traditional": "小姐",
+        "simplified": "小姐",
+        "pinyinNumber": "xiao3jie5",
+        "pinyinTone": "xiaŏjie",
+        "pinyinAtone": "xiaojie",
+        "translation": "young lady; miss; Ms."
+    },
+    {
+        "traditional": "些",
+        "simplified": "些",
+        "pinyinNumber": "xie1",
+        "pinyinTone": "xiē",
+        "pinyinAtone": "xie",
+        "translation": "some; few; several"
+    },
+    {
+        "traditional": "寫",
+        "simplified": "写",
+        "pinyinNumber": "xie3",
+        "pinyinTone": "xiĕ",
+        "pinyinAtone": "xie",
+        "translation": "to write; to compose"
+    },
+    {
+        "traditional": "謝謝",
+        "simplified": "谢谢",
+        "pinyinNumber": "xie4xie5",
+        "pinyinTone": "xièxie",
+        "pinyinAtone": "xiexie",
+        "translation": "thank you"
+    },
+    {
+        "traditional": "星期",
+        "simplified": "星期",
+        "pinyinNumber": "xing1qi1",
+        "pinyinTone": "xīngqī",
+        "pinyinAtone": "xingqi",
+        "translation": "week"
+    },
+    {
+        "traditional": "學生",
+        "simplified": "学生",
+        "pinyinNumber": "xue2sheng5",
+        "pinyinTone": "xuésheng",
+        "pinyinAtone": "xuesheng",
+        "translation": "student"
+    },
+    {
+        "traditional": "學習",
+        "simplified": "学习",
+        "pinyinNumber": "xue2xi2",
+        "pinyinTone": "xuéxí",
+        "pinyinAtone": "xuexi",
+        "translation": "learn; to study"
+    },
+    {
+        "traditional": "學校",
+        "simplified": "学校",
+        "pinyinNumber": "xue2xiao4",
+        "pinyinTone": "xuéxiaò",
+        "pinyinAtone": "xuexiao",
+        "translation": "school"
+    },
+    {
+        "traditional": "一",
+        "simplified": "一",
+        "pinyinNumber": "yi1",
+        "pinyinTone": "yī",
+        "pinyinAtone": "yi",
+        "translation": "one; once; a"
+    },
+    {
+        "traditional": "衣服",
+        "simplified": "衣服",
+        "pinyinNumber": "yi1fu5",
+        "pinyinTone": "yīfu",
+        "pinyinAtone": "yifu",
+        "translation": "clothes"
+    },
+    {
+        "traditional": "醫生",
+        "simplified": "医生",
+        "pinyinNumber": "yi1sheng1",
+        "pinyinTone": "yīshēng",
+        "pinyinAtone": "yisheng",
+        "translation": "doctor"
+    },
+    {
+        "traditional": "醫院",
+        "simplified": "医院",
+        "pinyinNumber": "yi1yuan4",
+        "pinyinTone": "yīyuàn",
+        "pinyinAtone": "yiyuan",
+        "translation": "hospital"
+    },
+    {
+        "traditional": "椅子",
+        "simplified": "椅子",
+        "pinyinNumber": "yi3zi5",
+        "pinyinTone": "yĭzi",
+        "pinyinAtone": "yizi",
+        "translation": "chair"
+    },
+    {
+        "traditional": "一點兒",
+        "simplified": "一点儿",
+        "pinyinNumber": "yi4dian3r5",
+        "pinyinTone": "yìdiănr5",
+        "pinyinAtone": "yidianr5",
+        "translation": "a bit; a few"
+    },
+    {
+        "traditional": "有",
+        "simplified": "有",
+        "pinyinNumber": "you3",
+        "pinyinTone": "yoŭ",
+        "pinyinAtone": "you",
+        "translation": "have"
+    },
+    {
+        "traditional": "月",
+        "simplified": "月",
+        "pinyinNumber": "yue4",
+        "pinyinTone": "yuè",
+        "pinyinAtone": "yue",
+        "translation": "moon; month"
+    },
+    {
+        "traditional": "在",
+        "simplified": "在",
+        "pinyinNumber": "zai4",
+        "pinyinTone": "zaì",
+        "pinyinAtone": "zai",
+        "translation": "at; on; in; indicates an action in progress"
+    },
+    {
+        "traditional": "再見",
+        "simplified": "再见",
+        "pinyinNumber": "zai4jian4",
+        "pinyinTone": "zaìjiàn",
+        "pinyinAtone": "zaijian",
+        "translation": "goodbye; see you later"
+    },
+    {
+        "traditional": "怎麼",
+        "simplified": "怎么",
+        "pinyinNumber": "zen3me5",
+        "pinyinTone": "zĕnme",
+        "pinyinAtone": "zenme",
+        "translation": "how?"
+    },
+    {
+        "traditional": "怎麼樣",
+        "simplified": "怎么样",
+        "pinyinNumber": "zen3me5yang4",
+        "pinyinTone": "zĕnmeyàng",
+        "pinyinAtone": "zenmeyang",
+        "translation": "how about?; how is/was it?"
+    },
+    {
+        "traditional": "這",
+        "simplified": "这",
+        "pinyinNumber": "zhe4",
+        "pinyinTone": "zhè",
+        "pinyinAtone": "zhe",
+        "translation": "this"
+    },
+    {
+        "traditional": "中國",
+        "simplified": "中国",
+        "pinyinNumber": "Zhong1guo2",
+        "pinyinTone": "Zhōngguó",
+        "pinyinAtone": "Zhongguo",
+        "translation": "China"
+    },
+    {
+        "traditional": "中午",
+        "simplified": "中午",
+        "pinyinNumber": "zhong1wu3",
+        "pinyinTone": "zhōngwŭ",
+        "pinyinAtone": "zhongwu",
+        "translation": "noon; midday"
+    },
+    {
+        "traditional": "住",
+        "simplified": "住",
+        "pinyinNumber": "zhu4",
+        "pinyinTone": "zhù",
+        "pinyinAtone": "zhu",
+        "translation": "to live; reside; to stop"
+    },
+    {
+        "traditional": "桌子",
+        "simplified": "桌子",
+        "pinyinNumber": "zhuo1zi5",
+        "pinyinTone": "zhuōzi",
+        "pinyinAtone": "zhuozi",
+        "translation": "table; desk"
+    },
+    {
+        "traditional": "字",
+        "simplified": "字",
+        "pinyinNumber": "zi4",
+        "pinyinTone": "zì",
+        "pinyinAtone": "zi",
+        "translation": "letter; character"
+    },
+    {
+        "traditional": "昨天",
+        "simplified": "昨天",
+        "pinyinNumber": "zuo2tian1",
+        "pinyinTone": "zuótiān",
+        "pinyinAtone": "zuotian",
+        "translation": "yesterday"
+    },
+    {
+        "traditional": "做",
+        "simplified": "做",
+        "pinyinNumber": "zuo4",
+        "pinyinTone": "zuò",
+        "pinyinAtone": "zuo",
+        "translation": "do; make"
+    },
+    {
+        "traditional": "坐",
+        "simplified": "坐",
+        "pinyinNumber": "zuo4",
+        "pinyinTone": "zuò",
+        "pinyinAtone": "zuo",
+        "translation": "sit"
+    }
+]
