@@ -12,6 +12,6 @@ Mandarin dictionary and HSK materials.
 - [Mandarin](https://github.com/tocausan/mandarin)
 
 ## Licence
-MIT
+Creative Commons Attribution-Share Alike 3.0
 
 
