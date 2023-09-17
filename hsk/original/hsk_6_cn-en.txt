@@ -611,9 +611,9 @@
 钙	鈣	gai4	gài	calcium
 盖章	蓋章	gai4zhang1	gàizhāng	affix one's seal; seal; stamp
 干旱	幹旱	gan1han4	gānhàn	drought; dry
-干扰	幹擾	gan1rao3	gānrǎo	interfere; obstruction
-干涉	幹涉	gan1she4	gānshè	interfere; intervene; meddle
-干预	幹預	gan1yu4	gānyù	meddle; intervene; intervention
+干扰	干擾	gan1rao3	gānrǎo	interfere; obstruction
+干涉	干涉	gan1she4	gānshè	interfere; intervene; meddle
+干预	干預	gan1yu4	gānyù	meddle; intervene; intervention
 尴尬	尴尬	gang1a4	gāngà	awkward; embarrassed
 感慨	感慨	gan3kai3	gǎnkǎi	lament; with a tinge of emotion or regret
 感染	感染	gan3ran3	gǎnrǎn	infection; infect; influence
